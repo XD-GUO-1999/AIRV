@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:36:09 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Tue Mar  3 15:42:52 2026
+# Process ID: 96269
+# Current directory: /homes/h24li/AIRV/cva6-softcore-contest/core
+# Command line: vivado
+# Log file: /homes/h24li/AIRV/cva6-softcore-contest/core/vivado.log
+# Journal file: /homes/h24li/AIRV/cva6-softcore-contest/core/vivado.jou
+# Running On        :fl-tp-br-493
+# Platform          :Ubuntu
+# Operating System  :Ubuntu 24.04.4 LTS
+# Processor Detail  :Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+# CPU Frequency     :4357.536 MHz
+# CPU Physical cores:6
+# CPU Logical cores :12
+# Host memory       :16533 MB
+# Swap memory       :4294 MB
+# Total Virtual     :20828 MB
+# Available Virtual :16059 MB
+#-----------------------------------------------------------
+start_gui
